@@ -1,0 +1,7 @@
+Activity,Best Model,Best F1-Score
+WALKING,SVM,96.91
+WALKING_UPSTAIRS,Logistic Regression,95.31
+WALKING_DOWNSTAIRS,Logistic Regression,96.33
+SITTING,SVM,92.14
+STANDING,SVM,93.55
+LAYING,Random Forest,100.0

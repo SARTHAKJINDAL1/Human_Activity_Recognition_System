@@ -1,0 +1,5 @@
+Rank,Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC,Average Score
+1,SVM,95.52,95.63,95.52,95.51,99.77,96.39
+2,Logistic Regression,95.49,95.65,95.49,95.48,99.75,96.37
+3,Random Forest,92.94,93.06,92.94,92.92,99.54,94.28
+4,KNN,89.07,89.83,89.07,88.99,98.53,91.1
